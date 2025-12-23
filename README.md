@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![My AWS Certification](<IMAGE_URL>)](<https://www.credly.com/badges/48f956b4-24bb-4ed6-9102-8fbebf2169ed/public_url>)
+[![My AWS Certification](<https://github.com/engineerping/engineerping/blob/master/aws-certified-solutions-architect-professional.png>)](<https://www.credly.com/badges/48f956b4-24bb-4ed6-9102-8fbebf2169ed/public_url>)
