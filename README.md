@@ -15,4 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![My AWS Certification](<https://images.credly.com/size/220x220/images/2d84e428-9078-49b6-a804-13c15383d0de/image.png>)](<https://www.credly.com/badges/48f956b4-24bb-4ed6-9102-8fbebf2169ed/public_url>)
+[![My AWS SAP badge](<https://images.credly.com/size/220x220/images/2d84e428-9078-49b6-a804-13c15383d0de/image.png>)](<https://www.credly.com/badges/48f956b4-24bb-4ed6-9102-8fbebf2169ed/public_url>)
+
+[![My AWS SAP Certification](./AWS_SAP_certification.png)](<https://github.com/engineerping/engineerping/blob/master/AWS_SAP_certification.png>)
