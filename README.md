@@ -1,4 +1,4 @@
-<img width="877" height="668" alt="image" src="https://github.com/user-attachments/assets/92ba1a3e-c45b-46c5-81dc-d64f00c30705" />## Hi there 👋
+## Hi there 👋
 
 <!--
 **engineerping/engineerping** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,7 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![My AWS SAP badge](<https://images.credly.com/size/220x220/images/2d84e428-9078-49b6-a804-13c15383d0de/image.png>)](<https://www.credly.com/badges/48f956b4-24bb-4ed6-9102-8fbebf2169ed/public_url>)
-
-VALIDATION NUMBER: 3f82eb7a1bc44474a59cf9784e3a860f
+[![My AWS SAP badge](<https://images.credly.com/size/220x220/images/2d84e428-9078-49b6-a804-13c15383d0de/image.png>)](<https://www.credly.com/badges/48f956b4-24bb-4ed6-9102-8fbebf2169ed/public_url>)  
+VALIDATION NUMBER: 3f82eb7a1bc44474a59cf9784e3a860f  
 VALIDATE AT: https://aws.amazon.com/verification
